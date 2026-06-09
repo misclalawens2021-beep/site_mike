@@ -1,0 +1,26 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background: grey;
+}
+
+
+
+.mike {
+    display: flex; 
+    align-items: center;
+}
+
+.mike h1 {
+    display: flex;
+    color: red;
+}
+
+.mike h2 {
+    /* display: flex;  */
+    margin: 10px 30px 0 20px;
+    color: green
+}
+
+footer {
+
+}
